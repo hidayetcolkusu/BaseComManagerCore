@@ -1,0 +1,9 @@
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\obj\Debug\netstandard2.0\BaseComManagerCore.AssemblyInfoInputs.cache
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\obj\Debug\netstandard2.0\BaseComManagerCore.AssemblyInfo.cs
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\bin\Debug\netstandard2.0\BaseComManagerCore.deps.json
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\bin\Debug\netstandard2.0\BaseComManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\bin\Debug\netstandard2.0\BaseComManagerCore.pdb
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\obj\Debug\netstandard2.0\BaseComManagerCore.dll
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\obj\Debug\netstandard2.0\BaseComManagerCore.pdb
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\obj\Debug\netstandard2.0\BaseComManagerCore.csprojAssemblyReference.cache
+D:\Hidayet\MyRepos\ComManagers\BaseComManagerCore\BaseComManagerCore\obj\Debug\netstandard2.0\BaseComManagerCore.csproj.CoreCompileInputs.cache

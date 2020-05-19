@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.1</version>
+    <title>$title$</title>
+    <authors>Hidayet Raşit ÇÖLKUŞU</authors>
+    <owners>Hidayet Raşit ÇÖLKUŞU</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license> 
+    <description>Base Communication Manager</description>
+    <releaseNotes>Base Communication Manager</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Base Communication Manager</tags>
+  </metadata>
+</package>
